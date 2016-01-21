@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+  <!--  <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:layout_marginTop="40dip"
+        android:text="My Number:"
+        android:layout_marginBottom="15dip" />
+
+
+    <TextView
+        android:id="@+id/lblNumber"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="Number:"
+        android:layout_marginBottom="15dip"/> -->
+
+    <TextView
+
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:layout_marginTop="40dip"
+        android:text="CAR 1:"
+        android:layout_marginBottom="15dip"/>
+    <TextView
+        android:id="@+id/lblBrand"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="Brand: Honda Amaze"
+        android:layout_marginBottom="15dip"/>
+    <TextView
+        android:id="@+id/lblColor"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="Color: Black"
+        android:layout_marginBottom="15dip"/>
+    <TextView
+        android:id="@+id/lblText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="Text: Have a Good Day"
+        android:layout_marginBottom="15dip"/>
+
+    <Button android:id="@+id/btnLogout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Connect"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:layout_marginTop="20dip"
+        android:text="CAR 2:"
+        android:layout_marginBottom="15dip"/>
+    <TextView
+        android:id="@+id/lblBrand1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="Brand: Duster"
+        android:layout_marginBottom="15dip"/>
+    <TextView
+        android:id="@+id/lblColor1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="Color: Chocolate Brown"
+        android:layout_marginBottom="15dip"/>
+    <TextView
+        android:id="@+id/lblText1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="Text: "
+        android:layout_marginBottom="15dip"/>
+
+    <Button android:id="@+id/btnLogout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Connect"/>
+
+    <!-- Button to show session data -->
+   <!-- <Button android:id="@+id/btnLogout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Logout"/>-->
+
+</LinearLayout>

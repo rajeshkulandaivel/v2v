@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\Service_for_android\Service_for_android\bin\Service_for_android.dll.config
+c:\users\admin\documents\visual studio 2015\Projects\Service_for_android\Service_for_android\bin\Service_for_android.dll
+c:\users\admin\documents\visual studio 2015\Projects\Service_for_android\Service_for_android\bin\Service_for_android.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Service_for_android\Service_for_android\obj\Debug\Service_for_android.dll
+c:\users\admin\documents\visual studio 2015\Projects\Service_for_android\Service_for_android\obj\Debug\Service_for_android.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Service_for_android\Service_for_android\obj\Debug\Service_for_android.csprojResolveAssemblyReference.cache
