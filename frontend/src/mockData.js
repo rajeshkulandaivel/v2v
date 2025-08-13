@@ -173,7 +173,7 @@ export const mockMessages = [
       {
         id: 'm4',
         senderId: 'host1',
-        text: 'Yes, free parking is included. I'll send you the exact parking spot details before your arrival.',
+        text: 'Yes, free parking is included. I will send you the exact parking spot details before your arrival.',
         timestamp: new Date('2024-12-20T12:00:00'),
         isHost: true
       }
